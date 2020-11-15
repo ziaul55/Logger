@@ -1,0 +1,2 @@
+influxdb==5.3.0
+Adafruit-Python-DHT==1.4.0
