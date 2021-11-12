@@ -1,1 +1,1 @@
-# Demo Project (Programming assignment of the Internet of Things (IOT) course). 
+## Project (Programming assignment of the Internet of Things (IOT) course). 
